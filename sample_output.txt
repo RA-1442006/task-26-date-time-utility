@@ -1,0 +1,148 @@
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 1
+
+--- 1. Age Calculator ---
+Today's Date: 26-10-2026
+Enter your date of birth (DD-MM-YYYY): 31-02-2026
+Invalid date! Please enter a valid date in DD-MM-YYYY format (e.g. 15-08-2024).
+Enter your date of birth (DD-MM-YYYY): 01-01-2030
+Date of birth cannot be in the future! Please try again.
+Enter your date of birth (DD-MM-YYYY): 15-08-2003
+
+--- Result ---
+Date of Birth: 15-08-2003
+Current Age:   23 years, 2 months, 11 days
+Total Days:    8,473 days lived
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 2
+
+--- 2. Days Between Two Dates ---
+Enter first date (DD-MM-YYYY): 26-10-2026
+Enter second date (DD-MM-YYYY): 01-01-2026
+
+Note: Second date was earlier than first date. Swapping dates for calculation.
+
+--- Result ---
+From: 01-01-2026 (Thursday) to 26-10-2026 (Monday)
+Total Difference: 298 day(s)
+In Weeks & Days:  42 week(s) and 4 day(s)
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 3
+
+--- 3. Working Days Calculator ---
+Enter start date (DD-MM-YYYY): 01-01-2026
+Enter end date (DD-MM-YYYY): 26-10-2026
+
+--- Result ---
+Start Date: 01-01-2026 (Thursday)
+End Date:   26-10-2026 (Monday)
+Total calendar days (inclusive): 299 days
+Working days (Mon to Fri):       213 days
+Weekend days (Sat & Sun):        86 days
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 4
+
+--- 4. Date/Time Formatter ---
+Current date and time in various standard formats:
+
+  1. DD-MM-YYYY:           26-10-2026
+  2. Month DD, YYYY:       October 26, 2026
+  3. Day, Month DD, YYYY:  Monday, October 26, 2026
+  4. 12-Hour Time:         08:22:52 PM
+  5. 24-Hour Time:         20:22:52
+  6. Weekday Name:         Monday
+  7. ISO 8601 Format:      2026-10-26 20:22:52
+  8. Full Summary:         Monday, 26 October 2026 at 08:22:52 PM
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 5
+
+--- 5. Leap Year Checker ---
+Enter a year to check (e.g. 2024): 2024
+
+--- Result ---
+2024 IS a leap year! (366 days, February has 29 days)
+Reason: Divisible by 4 and not divisible by 100.
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 5
+
+--- 5. Leap Year Checker ---
+Enter a year to check (e.g. 2024): 2100
+
+--- Result ---
+2100 is NOT a leap year. (365 days, February has 28 days)
+Reason: Divisible by 100, but not divisible by 400.
+
+==========================================
+         DATE AND TIME UTILITY            
+==========================================
+1. Calculate Age (Years, Months, Days)
+2. Days Between Two Dates
+3. Working Days Calculator (Mon-Fri)
+4. Date/Time Formatter (Current Time)
+5. Leap Year Checker
+6. Exit
+==========================================
+Enter your choice (1-6): 6
+
+Thank you for using Date and Time Utility. Goodbye!
+
